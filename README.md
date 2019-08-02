@@ -6,15 +6,28 @@ Colons can be used to align columns.
 
 | Week  | Description   | 
 | ----- |:-------------:| 
-| week1 | right-aligned | 
-| week2 | centered      |  
-| week3 | are neat      |    
-| week4 | are neat      |  
-| week5 | are neat      |    
+| week1 | Welcome | 
+| week2 | Regression: Predicting House Prices      |  
+| week3 | Classification: Analyzing Sentiment      |    
+| week4 | Clustering and Similarity: Retrieving Documents      |  
+| week5 | Recommending Products      |    
 
-## Week1
+## Week1 - Welcome
+- Lectue 
+- Assignment
 
-## Week2
-## Week3
-## Week4
-## Week5
+## Week2 - Regression - Predicting House Prices
+- Lectue 
+- Assignment
+
+## Week3 - Classification: Analyzing Sentiment
+- Lectue 
+- Assignment
+
+## Week4 - Clustering and Similarity: Retrieving Documents
+- Lectue 
+- Assignment
+
+## Week5 - Recommending Products 
+- Lectue 
+- Assignment
